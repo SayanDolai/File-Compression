@@ -1,0 +1,14 @@
+Data Structures and Algorithms are fundamental concepts in computer science.
+Huffman Coding is a greedy algorithm used for lossless data compression.
+This project demonstrates file compression using binary trees, priority queues, and hash maps.
+Learning how compression works helps understand real-world applications like ZIP and PNG files.
+
+Artificial Intelligence and Machine Learning are transforming modern technology.
+Efficient storage and transmission of data require powerful compression algorithms.
+The Huffman Tree assigns shorter binary codes to frequently occurring characters.
+This reduces the total number of bits needed to represent a file without losing information.
+Building this project improves understanding of trees, heaps, recursion, and file handling in C++.
+
+Compression algorithms reduce redundancy in data while preserving the original information.
+Efficient encoding techniques improve storage utilization and network bandwidth.
+Binary trees, priority queues, and greedy algorithms form the foundation of Huffman Coding.

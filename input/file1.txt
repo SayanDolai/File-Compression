@@ -1,0 +1,4 @@
+Data Structures and Algorithms are fundamental concepts in computer science.
+Huffman Coding is a greedy algorithm used for lossless data compression.
+This project demonstrates file compression using binary trees, priority queues, and hash maps.
+Learning how compression works helps understand real-world applications like ZIP and PNG files.
